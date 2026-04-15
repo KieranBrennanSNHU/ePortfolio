@@ -1,0 +1,10 @@
+jupyterlab
+notebook
+jupyter-dash
+dash
+plotly
+dash-leaflet
+pandas
+numpy
+ipywidgets
+setuptools
