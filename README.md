@@ -1,16 +1,16 @@
 # Kieran Brennan ePortfolio
 ## CS499 Capstone
 
-######Proffesional Self-Assessment
+### *Professional Self-Assessment*
   
   Throughout the Computer Science program at Southern New Hampshire University, I have honed for skills and tackled many different projects. Some of the attributes that best describe the work are: team-oriented, strong communication, concise technical skills, and an emphasis on security. In many courses, class discussion is a great way to interact with your peers professionally. Weekly discussions provided an incredible platform to take in critiques and positively influence my work. In CS 470: Full-Stack Development II, a fellow classmate's response to my discussion helped me better understand the pros of Amazon API Gateway. Although this type of communication and collaboration was short lived, it provides an insight into my willingness to work as a team and benefit from criticism. Often times communicating with coworkers is not enough. Communication with stakeholders is also essential in the software development world. In CS 250: Software Development Lifecycle, we focused on the individual roles that make up the Agile workflow. The Product Owner and Scrum Master typically communicate with stakeholders to ensure the product being developed meets the standards of the target goal. In CS 300: Data Structures and Algorithms, projects focused on data structures written in a multitude of languages. Structures that I am proficient in are Linked Lists, Hash Maps, and Binary Search Trees. Many projects throughout the CS program not only contain data structures but databases as well. The primary database used was MongoDB, but I have developed experience with other NoSQL databases like DynamoDB. The primary goal of the Computer Science degree at SNHU focuses on software engineering and security. CS 465: Full Stack Development encompasses this entirely. Throughout the course we developed a full MEAN stack to create a travel website application. To build our travel web application, we focused on the MVC (Model-View-Controller) architecture, which not only organized the project, but also improved security by separating concerns. 
   In this capstone, I have developed three different artifacts, each with its own benefits. The first artifact is a binary search tree data structure that is transposed from C++ into Python. Switching to a new language is meant to exhibit technical skills and strategies that can accomplish industry-specific goals. The next artifact also relates to data structures. This program reads data into separate arrays, and then the output prompts to add, delete, print, or quit the application. I demonstrate my knowledge of data structures by changing these arrays to HashMaps and providing the same functioning output. The final artifact is focused on databases. Throughout the Computer Science program, I learned about NoSQL and SQL databases. I have experience with MongoDB and DynamoDB but wanted to add more variety to my understanding. In the last part of the project, I focused on integrating SQLite into an application that previously used MongoDB. To accomplish this, I used DB Browser (SQLite), changed the application to read a csv file into the new SQLite database, and provided the same functionality as the previous code. All the artifacts highlighted above have been chosen to emphasis the focus on data structures, algorithms, and databases that I achieved at Southern New Hampshire University.
 
-###### Code Review
+###### *Code Review*
 
 Click Here to visit my [code review] (https://youtu.be/AMTUD9ArRdk).
 
-###### Artifact One
+###### *Artifact One*
   
   <img width="5386" height="4040" alt="tree" src="https://github.com/user-attachments/assets/bbe40875-d543-404f-8714-6d58677f4024" />
 
