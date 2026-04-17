@@ -1,12 +1,12 @@
-# Kieran Brennan ePortfolio
+# Kieran Brennan 
 ## CS499 Capstone
 
 All narratives and program files reside in corresponding branches.
 
 ###### Artifacts:
-1. [CS 300: Binary Search Tree](https://github.com/KieranBrennanSNHU/ePortfolio/tree/CS-300-Data-Structures-and-Algorithms).
-2. [IT 145: Hash Map](https://github.com/KieranBrennanSNHU/ePortfolio/tree/IT-145-Data-Structure-Revision).
-3. [CS 340: SQLite](https://github.com/KieranBrennanSNHU/ePortfolio/tree/CS-340-Client-Server-Development).
+1. [CS 300: Binary Search Tree](https://github.com/KieranBrennanSNHU/ePortfolio/tree/CS-300-Data-Structures-and-Algorithms)
+2. [IT 145: Hash Map](https://github.com/KieranBrennanSNHU/ePortfolio/tree/IT-145-Data-Structure-Revision)
+3. [CS 340: SQLite](https://github.com/KieranBrennanSNHU/ePortfolio/tree/CS-340-Client-Server-Development)
 
 ### *Professional Self-Assessment*
   
@@ -43,6 +43,7 @@ Click Here to visit my [code review](https://youtu.be/AMTUD9ArRdk).
   While improving the existing project, I realized that HashMaps are a very strong way to store information that I do not typically use. I plan to use them more frequently especially with large amounts of input data, or times when a search key is used. 
 
   <img width="753" height="334" alt="Hashmap" src="https://github.com/user-attachments/assets/26ccb4b5-1ecb-4629-ba77-22a928ee4dfd" />
+
 
 ### *Artifact Three*
 
