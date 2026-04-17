@@ -31,7 +31,8 @@ Click Here to visit my [code review](https://youtu.be/AMTUD9ArRdk).
 
 ### *Artifact Two*
 
-<img width="753" height="334" alt="Hashmap" src="https://github.com/user-attachments/assets/26ccb4b5-1ecb-4629-ba77-22a928ee4dfd" />
+<img width="801" height="406" alt="image" src="https://github.com/user-attachments/assets/3555fc1a-57c8-4a39-a507-52eed08585b4" />
+
 
   For this project, I chose to revisit the IT 145 project that takes a list of monkeys and dogs and adds them to an array. I chose to change this data structure to a hashmap and integrate the new maps into the rest of the structure for the program. For example, I changed the output of the lists to use the HashMap when adding new animals or when printing out the existing ones. I left the old array intact to see the difference. 
   
@@ -40,6 +41,8 @@ Click Here to visit my [code review](https://youtu.be/AMTUD9ArRdk).
   The expertise in using different data structures is a valuable skill for any developer. I believe switching to a new data structure has exemplified my skill in the matter. I have full-filled the program outcome that states: Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms)
   
   While improving the existing project, I realized that HashMaps are a very strong way to store information that I do not typically use. I plan to use them more frequently especially with large amounts of input data, or times when a search key is used. 
+
+  <img width="753" height="334" alt="Hashmap" src="https://github.com/user-attachments/assets/26ccb4b5-1ecb-4629-ba77-22a928ee4dfd" />
 
 ### *Artifact Three*
 
