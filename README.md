@@ -3,7 +3,7 @@
 
 All narratives and program files reside in corresponding branches.
 
-######Artifacts:
+###### Artifacts:
 1. [CS 300: Binary Search Tree](https://github.com/KieranBrennanSNHU/ePortfolio/tree/CS-300-Data-Structures-and-Algorithms).
 2. [IT 145: Hash Map](https://github.com/KieranBrennanSNHU/ePortfolio/tree/IT-145-Data-Structure-Revision).
 3. [CS 340: SQLite](https://github.com/KieranBrennanSNHU/ePortfolio/tree/CS-340-Client-Server-Development).
