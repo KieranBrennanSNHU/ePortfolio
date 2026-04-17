@@ -20,18 +20,18 @@ Click Here to visit my [code review](https://youtu.be/AMTUD9ArRdk).
 
 ### *Artifact One*
   
-  <img width="750" height="450" alt="tree" src="https://github.com/user-attachments/assets/bbe40875-d543-404f-8714-6d58677f4024" />
+  <img width="500" height="300" alt="tree" src="https://github.com/user-attachments/assets/bbe40875-d543-404f-8714-6d58677f4024" />
 
   The artifact for this enhancement is a Binary Search Tree data structure that was created in CS 300: Data Structures and Algorithms. The program takes a csv file containing the names and class IDs of specific courses and fills out a binary search tree data structure with the corresponding data. The main function provides an options list to choose actions starting with reading in the data.csv courses file, reordering the search tree, searching for a specific course, and removing a specific course by course ID. The original program was written in C++, so for this enhancement the project was translated into python. I selected this item because it was a good way to familiarize myself with data structures in Python. By changing languages, I can articulate my knowledge of using multiple development languages. The artifact was improved by adding a reorder function and the flexibility of python. 
   
   The course outcomes met by this objective are as follows: Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. Enhancing this project gave me more insight into pointers and how a binary search tree functions. I struggled with the syntax for creating a node that had self-pointers until I figured out the final method. This version creates the node as a class and defines its properties as self, class id, and class name. The self variable is used as a location for the node, whether that is right or left of the parent node. 
 
-  <img width="804" height="335" alt="image" src="https://github.com/user-attachments/assets/b890e695-578a-4192-ac45-9aa4655a1474" />
+  <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b890e695-578a-4192-ac45-9aa4655a1474" />
 
 
 ### *Artifact Two*
 
-<img width="801" height="406" alt="image" src="https://github.com/user-attachments/assets/3555fc1a-57c8-4a39-a507-52eed08585b4" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/3555fc1a-57c8-4a39-a507-52eed08585b4" />
 
 
   For this project, I chose to revisit the IT 145 project that takes a list of monkeys and dogs and adds them to an array. I chose to change this data structure to a hashmap and integrate the new maps into the rest of the structure for the program. For example, I changed the output of the lists to use the HashMap when adding new animals or when printing out the existing ones. I left the old array intact to see the difference. 
