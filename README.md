@@ -26,7 +26,7 @@ Click Here to visit my [code review](https://youtu.be/AMTUD9ArRdk).
   
   The course outcomes met by this objective are as follows: Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. Enhancing this project gave me more insight into pointers and how a binary search tree functions. I struggled with the syntax for creating a node that had self-pointers until I figured out the final method. This version creates the node as a class and defines its properties as self, class id, and class name. The self variable is used as a location for the node, whether that is right or left of the parent node. 
 
-  <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b890e695-578a-4192-ac45-9aa4655a1474" />
+  <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/b890e695-578a-4192-ac45-9aa4655a1474" />
 
 
 ### *Artifact Two*
@@ -56,6 +56,6 @@ Click Here to visit my [code review](https://youtu.be/AMTUD9ArRdk).
   
   While enhancing this artifact, I had a hard time integrating the username and password into the new file running SQLite. I found work around for it, but unfortunately the username and password are not used. Another issue I had was running Jupyter Notebooks to fill out my SQLite database. I ended up using a docker container to employ the necessary Jupyter plugins and imports. Using docker containers seems to be a great way to keep the environment simple.
 
-<img width="1599" height="999" alt="SQLiteImage" src="https://github.com/user-attachments/assets/c693127a-cebf-45ff-a491-87fc32fef8aa" />
+<img width="1200" height="800" alt="SQLiteImage" src="https://github.com/user-attachments/assets/c693127a-cebf-45ff-a491-87fc32fef8aa" />
 
 
