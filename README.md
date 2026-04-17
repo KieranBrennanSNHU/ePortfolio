@@ -20,7 +20,7 @@ Click Here to visit my [code review](https://youtu.be/AMTUD9ArRdk).
 
 ### *Artifact One*
   
-  <img width="1250" height="1000" alt="tree" src="https://github.com/user-attachments/assets/bbe40875-d543-404f-8714-6d58677f4024" />
+  <img width="850" height="700" alt="tree" src="https://github.com/user-attachments/assets/bbe40875-d543-404f-8714-6d58677f4024" />
 
   The artifact for this enhancement is a Binary Search Tree data structure that was created in CS 300: Data Structures and Algorithms. The program takes a csv file containing the names and class IDs of specific courses and fills out a binary search tree data structure with the corresponding data. The main function provides an options list to choose actions starting with reading in the data.csv courses file, reordering the search tree, searching for a specific course, and removing a specific course by course ID. The original program was written in C++, so for this enhancement the project was translated into python. I selected this item because it was a good way to familiarize myself with data structures in Python. By changing languages, I can articulate my knowledge of using multiple development languages. The artifact was improved by adding a reorder function and the flexibility of python. 
   
